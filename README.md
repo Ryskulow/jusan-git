@@ -1,7 +1,6 @@
-# stepik-id-printer
+# stepik-id-printer ![](https://user-images.githubusercontent.com/31847553/202930136-cb3473eb-670b-4193-bc8e-3bc2f1933a0d.svg)
 
 ---
-![](https://user-images.githubusercontent.com/31847553/202930136-cb3473eb-670b-4193-bc8e-3bc2f1933a0d.svg)
 
 Это проект для вывода моего персонального идентификатора на *образовательной платформе* stepik.org.
 
