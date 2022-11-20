@@ -10,8 +10,16 @@
 - Простой.
 
 ## Запуск
----
+
 bash ./script.sh
 
 ## Портриование
 
+Данный проект можно портировать на другие языки программирования.
+На Java
+
+class Main {
+    public static void main(String[] args) {
+        System.out.println("777");
+    }
+}
