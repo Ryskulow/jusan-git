@@ -11,7 +11,8 @@
 
 ## Запуск
 
-bash ./script.sh
+bash ./script.sh выводит уникальный id
+bash ./username.sh выводит имя и фамилию
 
 ## Портриование
 
